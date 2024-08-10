@@ -3,6 +3,7 @@
 docgen
 vendor
 .idea
+test.json
 bin/linux_386
 bin/linux_amd64
 bin/linux_arm64
